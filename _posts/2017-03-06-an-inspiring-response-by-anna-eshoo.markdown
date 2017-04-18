@@ -1,7 +1,7 @@
 ---
 title: An inspiring response by Anna Eshoo
 date: 2017-03-06 10:09:00 -08:00
-permalink: "/anna-eshoo-call-to-action"
+permalink: "/posts/anna-eshoo-call-to-action"
 tags:
 - Anna Eshoo
 - MOCs
