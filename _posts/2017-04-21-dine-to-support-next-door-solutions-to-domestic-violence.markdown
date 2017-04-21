@@ -4,8 +4,8 @@ date: 2017-04-21 12:29:00 -07:00
 tags:
 - domestic violence
 - next door solutions
-event-start-date: 2017-04-21 11:30:00 -07:00
-event-end-date: 2017-04-21 13:00:00 -07:00
+event-start-date: 2017-04-21 16:00:00 -07:00
+event-end-date: 2017-04-21 21:00:00 -07:00
 Location: Hawaiian Poke Bowl 387 S 1st St, San Jose, California 95113
 RSVP-link: https://www.facebook.com/events/1850819521839302/
 ---
