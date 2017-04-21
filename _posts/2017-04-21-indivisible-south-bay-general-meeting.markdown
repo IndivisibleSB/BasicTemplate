@@ -4,6 +4,7 @@ date: 2017-04-21 12:38:00 -07:00
 tags:
 - ISB
 - general meeting
+is featured: true
 event-start-date: 2017-04-23 13:30:00 -07:00
 event-end-date: 2017-04-23 15:30:00 -07:00
 Location: the Congressional Church of Sunnyvale 1112 S Bernardo Ave, Sunnyvale
