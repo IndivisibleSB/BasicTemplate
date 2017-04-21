@@ -3,6 +3,7 @@ title: 'Co-Director''s Statement: We Want Your Stories'
 date: 2017-04-21 10:32:00 -07:00
 tags:
 - co-director
+is featured: true
 author: Lisa Ferino
 ---
 
