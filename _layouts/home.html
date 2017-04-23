@@ -44,7 +44,7 @@ layout: default
         <!-- Blog Posts -->
         <div class="post-list">
 
-          {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true"|sort:"page.date") %}
+          {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true"|sort:"page.event-start-date","page.date") %}
           {% assign not_featured_posts = (site.posts|where_exp:"post","post['is featured'] == false"|sort:"page.date") %}
 
           {% for post in featured_posts %}
