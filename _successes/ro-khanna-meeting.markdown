@@ -1,5 +1,5 @@
 ---
-title: Ro Khanna Meeting
+title: ISB and others meet with Ro Khanna
 date: 2017-04-23 09:00:00 -07:00
 tags:
 - ro khanna
