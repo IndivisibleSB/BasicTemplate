@@ -4,6 +4,7 @@ date: 2017-04-23 09:00:00 -07:00
 tags:
 - ro khanna
 - MOC
+is featured: true
 main-image: "/uploads/IMG_5734%20(1).jpg"
 ---
 
