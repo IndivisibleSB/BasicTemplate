@@ -1,6 +1,8 @@
 ---
 title: Sign Petition to tell Trump we cannot withdraw from the Paris Agreement
 date: 2017-04-24 08:12:00 -07:00
+categories:
+- action
 tags:
 - petition
 - climate change
