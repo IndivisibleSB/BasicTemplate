@@ -34,8 +34,7 @@ layout: default
         <div class="post-list">
 
           {% assign curDate = site.time | date: '%s' %}
-          {% assign sorted_posts = (site.posts|sort:"event-start-date","last"|reverse) %}
-          {% for post in sorted_posts %}
+          {% for post in site.posts %}
             {% assign postStartDate = post.event-start-date | date: '%s' %}
             {% if postStartDate >= curDate %}
               {% include event-post-header.html %}
