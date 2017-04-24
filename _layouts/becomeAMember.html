@@ -31,6 +31,8 @@ layout: default
 
              </div>
            </div>
+           {% elsif page.google-group-link %}
+           <p><a href="{{page.google-group-link}}" class="btn btn-primary">Join our mailing list</a></p>
            {% else %}
            <p class="text-danger">No mailing list set up yet. Add one by logging into Siteleaf, editing this page, and pasting one into the <em>mailchimp-form-embed</em> field.</p>
            {% endif %}
