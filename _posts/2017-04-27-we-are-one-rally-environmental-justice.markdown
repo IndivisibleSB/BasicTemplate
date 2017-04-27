@@ -1,6 +1,6 @@
 ---
 title: 'We Are One Rally: Environmental Justice'
-date: 2017-04-27 12:40:00 -07:00
+date: 2017-04-27 17:30:00 -07:00
 tags:
 - rally
 event-start-date: 2017-04-27 17:30:00 -07:00
