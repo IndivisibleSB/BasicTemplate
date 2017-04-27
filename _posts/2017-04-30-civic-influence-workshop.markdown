@@ -1,6 +1,6 @@
 ---
 title: Civic Influence Workshop
-date: 2017-04-27 12:53:00 -07:00
+date: 2017-04-30 13:00:00 -07:00
 is featured: true
 event-start-date: 2017-04-30 13:00:00 -07:00
 event-end-date: 2017-04-30 15:00:00 -07:00
