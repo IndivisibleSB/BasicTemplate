@@ -1,6 +1,6 @@
 ---
 title: 'Resistance School: How to Structure and Build Capacity for Action'
-date: 2017-04-27 10:10:00 -07:00
+date: 2017-04-27 16:00:00 -07:00
 tags:
 - resistance
 event-start-date: 2017-04-27 16:00:00 -07:00
