@@ -1,6 +1,6 @@
 ---
 title: CA Organizer and Activist Fair and Training CD10
-date: 2017-04-27 12:46:00 -07:00
+date: 2017-04-29 09:00:00 -07:00
 tags:
 - flip
 - CD10
