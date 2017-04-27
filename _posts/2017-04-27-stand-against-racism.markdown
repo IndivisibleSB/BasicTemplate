@@ -1,6 +1,8 @@
 ---
 title: Stand Against Racism
 date: 2017-04-27 10:13:00 -07:00
+tags:
+- YWCA
 event-start-date: 2017-04-27 17:00:00 -07:00
 event-end-date: 2017-04-27 19:30:00 -07:00
 Location: Mexican Heritage Plaza 1700 Alum Rock Avenue San Jose, CA 95116
