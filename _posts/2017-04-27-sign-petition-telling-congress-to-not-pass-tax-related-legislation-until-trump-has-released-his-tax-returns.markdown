@@ -2,6 +2,8 @@
 title: Sign Petition telling Congress to not pass Tax-related Legislation until Trump
   has Released his Tax Returns
 date: 2017-04-27 13:03:00 -07:00
+categories:
+- action
 tags:
 - taxes
 - tax returns
