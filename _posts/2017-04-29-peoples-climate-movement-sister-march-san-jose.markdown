@@ -1,6 +1,6 @@
 ---
 title: People’s Climate Movement Sister March San Jose
-date: 2017-04-27 12:51:00 -07:00
+date: 2017-04-29 10:00:00 -07:00
 tags:
 - climate march
 - climate change
