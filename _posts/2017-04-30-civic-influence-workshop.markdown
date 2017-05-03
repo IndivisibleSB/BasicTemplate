@@ -1,7 +1,7 @@
 ---
 title: Civic Influence Workshop
 date: 2017-04-30 13:00:00 -07:00
-is featured: true
+is featured: false
 event-start-date: 2017-04-30 13:00:00 -07:00
 event-end-date: 2017-04-30 15:00:00 -07:00
 Location: The Service Employees International Union 2302 Zanker Rd, SEIU San Jose,
