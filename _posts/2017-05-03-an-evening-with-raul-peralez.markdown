@@ -1,6 +1,6 @@
 ---
 title: An Evening with Raul Peralez
-date: 2017-05-02 18:01:00 -07:00
+date: 2017-05-03 18:00:00 -07:00
 event-start-date: 2017-05-03 18:00:00 -07:00
 event-end-date: 2017-05-03 20:30:00 -07:00
 Location: Forager Tasting Room & Eatery 420 S 1st St, San Jose, CA 95172 South 1st
