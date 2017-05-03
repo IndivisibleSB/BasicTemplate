@@ -1,7 +1,7 @@
 ---
 title: 'Ibram X. Kendi: Stamped From the Beginning: The Definitive History of Racist
   Ideas in America'
-date: 2017-05-02 18:04:00 -07:00
+date: 2017-05-04 19:30:00 -07:00
 event-start-date: 2017-05-04 19:30:00 -07:00
 event-end-date: 2017-05-04 20:30:00 -07:00
 Location: First Congregational Church of Oakland  2501 Harrison St  Oakland, CA 94612
