@@ -1,6 +1,6 @@
 ---
 title: NASA in Partnerships with the Scientific World
-date: 2017-05-02 18:03:00 -07:00
+date: 2017-05-03 19:30:00 -07:00
 event-start-date: 2017-05-03 19:30:00 -07:00
 event-end-date: 2017-05-03 21:00:00 -07:00
 Location: Los Altos Youth Center 1 North San Antonio Road Los Altos, CA
