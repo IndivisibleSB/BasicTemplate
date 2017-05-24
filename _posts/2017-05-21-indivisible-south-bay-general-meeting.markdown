@@ -1,7 +1,7 @@
 ---
 title: Indivisible South Bay General Meeting
 date: 2017-05-21 15:30:00 -07:00
-is featured: true
+is featured: false
 event-start-date: 2017-05-21 15:30:00 -07:00
 event-end-date: 2017-05-21 17:30:00 -07:00
 Location: Sunnyvale Congregational Church, 1112 S Bernardo Ave, Sunnyvale, CA 94087
