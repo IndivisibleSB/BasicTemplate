@@ -1,5 +1,5 @@
 ---
-title: General Meeting June 4th 1:30
+title: ISB General Meeting June 4th
 date: 2017-05-27 12:15:00 -07:00
 is featured: true
 event-start-date: 0004-01-01 00:07:02 -07:52
