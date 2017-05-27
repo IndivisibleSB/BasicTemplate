@@ -1,6 +1,7 @@
 ---
 title: Community Town Hall on Immigration with Assemblymember Ash Kalra
 date: 2017-05-13 10:00:00 -07:00
+published: false
 event-start-date: 2017-05-13 10:00:00 -07:00
 event-end-date: 2017-05-13 12:00:00 -07:00
 Location: Mayfair Community Center - City of San José 2039 Kammerer Ave, San Jose,
