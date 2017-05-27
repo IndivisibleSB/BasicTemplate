@@ -1,6 +1,7 @@
 ---
 title: 'Fear of a Faith: Sharia, Surveillance, Terrorism and the Muslim Ban'
 date: 2017-05-09 18:30:00 -07:00
+published: false
 event-start-date: 2017-05-09 18:30:00 -07:00
 event-end-date: 2017-05-09 20:30:00 -07:00
 Location: Palo Alto Rinconada Library, Embarcadero Room, 1213 Newell Rd.
