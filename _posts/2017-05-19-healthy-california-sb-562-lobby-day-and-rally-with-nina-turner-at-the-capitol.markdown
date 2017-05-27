@@ -1,6 +1,7 @@
 ---
 title: Healthy California SB 562 Lobby Day and Rally with Nina Turner at the Capitol
 date: 2017-05-19 10:00:00 -07:00
+published: false
 event-start-date: 2017-05-19 10:00:00 -07:00
 event-end-date: 2017-05-19 19:00:00 -07:00
 Location: 1315 10th St. Sacramento, CA 95814
