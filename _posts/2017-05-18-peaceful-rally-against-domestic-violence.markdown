@@ -1,6 +1,7 @@
 ---
 title: Peaceful Rally Against Domestic Violence
 date: 2017-05-18 12:00:00 -07:00
+published: false
 event-start-date: 2017-05-18 12:00:00 -07:00
 event-end-date: 2017-05-18 15:00:00 -07:00
 Location: Santa Clara County Superior Court- Palo Alto 270 Grant Ave, Palo Alto, California
