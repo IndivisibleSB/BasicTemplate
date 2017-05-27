@@ -1,7 +1,7 @@
 ---
 title: March for Truth
 date: 2017-06-03 10:00:00 -07:00
-event-start-date: 2017-06-03 10:00:00 -07:00
+event-start-date: 2017-06-03 11:00:00 -07:00
 event-end-date: 2017-06-03 13:00:00 -07:00
 Location: San Jose City Hall, 200 E Santa Clara St, San Jose, CA 95113
 ---
