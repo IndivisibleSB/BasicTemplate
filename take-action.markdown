@@ -1,6 +1,6 @@
 ---
 title: Take Action
-date: 2017-02-21 23:35:00 Z
+date: 2017-02-21 15:35:00 -08:00
 position: 0
 layout: actions
 ---
