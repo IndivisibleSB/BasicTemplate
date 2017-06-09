@@ -1,7 +1,7 @@
 ---
 title: ISB General Meeting June 4th
 date: 2017-05-27 12:15:00 -07:00
-is featured: true
+is featured: false
 event-start-date: 2017-06-04 13:30:00 -07:00
 event-end-date: 2017-06-04 15:30:00 -07:00
 Location: 'Congregational Church of Sunnyvale, 1112 S. Bernardo Ave, Sunnyvale '
