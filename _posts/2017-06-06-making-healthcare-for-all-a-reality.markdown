@@ -1,7 +1,7 @@
 ---
 title: Making Healthcare for All A Reality
 date: 2017-06-06 18:45:00 -07:00
-is featured: true
+is featured: false
 event-start-date: 2017-06-06 18:45:00 -07:00
 event-end-date: 2017-06-06 20:45:00 -07:00
 Location: Congregational Church of Sunnyvale 1112 S Bernardo Ave, Sunnyvale 94087
