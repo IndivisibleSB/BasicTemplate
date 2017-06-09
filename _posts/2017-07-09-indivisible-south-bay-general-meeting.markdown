@@ -1,5 +1,5 @@
 ---
-title: Indivisible South Bay General Meeting
+title: Indivisible South Bay General Meeting July 9th
 date: 2017-07-09 13:30:00 -07:00
 is featured: true
 event-start-date: 2017-07-09 13:30:00 -07:00
