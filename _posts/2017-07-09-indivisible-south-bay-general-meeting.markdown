@@ -1,7 +1,7 @@
 ---
 title: Indivisible South Bay General Meeting July 9th
 date: 2017-07-09 13:30:00 -07:00
-is featured: true
+is featured: false
 event-start-date: 2017-07-09 13:30:00 -07:00
 event-end-date: 2017-07-09 15:30:00 -07:00
 Location: 1112 S Bernardo Ave, Sunnyvale, CA 94087
